@@ -1,6 +1,7 @@
 🐍 Snake Game in Python (Pygame)
 
 🎮 Overview
+
 This is a classic Snake Game implemented using Python and the Pygame library. The player controls a snake that moves around the screen, eats food, and grows longer. The game ends if the snake hits the wall or itself.
 
 🧱 Features
@@ -22,9 +23,13 @@ python snake_game.py
 
 
 🎮 Controls
+
 | Key | Action | 
+
 | Q | Quit the game | 
+
 | C | Play again(after game over) | 
+
 | Arrows Keys | Move the snake | 
 
 
@@ -43,10 +48,12 @@ python snake_game.py
 - Replay option available after game over.
 
 🛠️ File Structure
+
 snake_game.py       # Main game file
 README.md           # Project documentation
 
 
 
 📜 License
+
 This project is open-source and free to use for educational or personal purposes.
