@@ -11,26 +11,26 @@ This is a classic Snake Game implemented using Python and the Pygame library. Th
 - Simple and colorful UI using Pygame
 
 🚀 Getting Started
-🔧 Prerequisites
-Make sure you have Python and Pygame installed:
-pip install pygame
 
+  🔧 Prerequisites
 
-▶️ Run the Game
-Save the code in a file named snake_game.py and run:
-python snake_game.py
+   - Make sure you have Python and Pygame installed:
+   - pip install pygame
+
+  ▶️ Run the Game
+   - Save the code in a file named snake_game.py and run:
+   - python snake_game.py
 
 
 
 🎮 Controls
+- | Key | Action | 
 
-| Key | Action | 
+- | Q | Quit the game | 
 
-| Q | Quit the game | 
+- | C | Play again(after game over) | 
 
-| C | Play again(after game over) | 
-
-| Arrows Keys | Move the snake | 
+- | Arrows Keys | Move the snake | 
 
 
 
